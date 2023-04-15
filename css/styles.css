@@ -205,6 +205,10 @@ blockquote {
   margin: 0 0 1rem;
 }
 
+.around {
+  margin: 7px
+}
+
 b,
 strong {
   font-weight: bolder;
